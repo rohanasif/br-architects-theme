@@ -1,0 +1,15 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+nav {
+    height: 10vh;
+    width: 100%;
+    background-color: aqua;
+}
+
+nav>ul {
+    list-style: none;
+    display: flex;
+}
