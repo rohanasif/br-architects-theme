@@ -7,14 +7,11 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 10vh;
-    width: 100%;
+    padding: 10px 20px;
     background-color: aqua;
 }
 
 nav>ul {
     list-style: none;
     display: flex;
-    justify-content: space-evenly;
-    
 }
