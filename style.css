@@ -114,3 +114,17 @@ nav>ul>li:hover {
 .about {
     padding: 22px;
 }
+
+.team {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.member {
+    width: 25%;
+}
+
+.member>img {
+    width: 100%;
+}
